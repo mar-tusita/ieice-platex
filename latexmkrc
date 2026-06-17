@@ -7,4 +7,4 @@ $bibtex = 'pbibtex %O %B';
 $makeindex = 'mendex %O -o %D %S';
 $dvipdf = 'dvipdfmx %O -o %D %S';
 $pdf_mode = 1;
-# @default_files = ("main.tex");
+@default_files = ("main.tex");
